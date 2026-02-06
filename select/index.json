@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "はーどもーどかのじょ / nyamura 【remix ver.】",
+  "base_artist": "nyamura",
+  "createdAt": "2026-02-06T18:53:31.757859Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はーどもーどかのじょ",
+      "artist": "nyamura",
+      "has_synced": false,
+      "path": "select/pl_01_はーどもーどかのじょ_nyamura.txt"
+    }
+  ]
+}
